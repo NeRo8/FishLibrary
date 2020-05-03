@@ -26,7 +26,7 @@ SECRET_KEY = '75p*!^n1gq8qk)*y024@u(c19mukl^dwudtasm5atkz6ikfh*k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['fishlibrary.herokuapp.com']
 
 
 # Application definition
